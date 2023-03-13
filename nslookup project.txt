@@ -1,0 +1,28 @@
+1)C:\Users\Yatharth>nslookup www.facebook.com
+Server:  reliance.reliance
+Address:  2405:201:4008:499d::c0a8:1d01
+
+Non-authoritative answer:
+Name:    star-mini.c10r.facebook.com
+Addresses:  2a03:2880:f144:181:face:b00c:0:25de
+          157.240.198.35
+Aliases:  www.facebook.com
+
+2)C:\Users\Yatharth>nslookup www.google.com
+Server:  reliance.reliance
+Address:  2405:201:4008:499d::c0a8:1d01
+
+Non-authoritative answer:
+Name:    www.google.com
+Addresses:  2404:6800:4002:81c::2004
+          142.250.193.196
+
+
+3)C:\Users\Yatharth>nslookup www.github.com
+Server:  reliance.reliance
+Address:  2405:201:4008:499d::c0a8:1d01
+
+Non-authoritative answer:
+Name:    github.com
+Address:  20.207.73.82
+Aliases:  www.github.com
